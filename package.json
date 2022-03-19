@@ -1,5 +1,5 @@
 {
-  "name": "webpack-shaking",
+  "name": "webpack-treeshaking",
   "version": "1.0.0",
   "description": "",
   "private": true,
